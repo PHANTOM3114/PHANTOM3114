@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h3>Building sovereign digital ecosystems.</h3>
+  <h3>Sovereign Digital Ecosystem Developer</h3>
   
   <p>
-    Researching OS architecture, decentralized networks, and high-performance computing.<br>
+    Deeping dive into the OS architecture, distributed systems, and high-performance engineering<br>
     Focusing on <b>C++</b>, <b>Rust</b> and <b>System Design</b>.
   </p>
 
