@@ -13,6 +13,7 @@
   </a>
 </div>
 
+<br>
 <img src="assets/firewatch-tower-wallpapers.png" alt="Firewatch Banner" width="100%">
 
 <br>
