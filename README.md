@@ -10,7 +10,7 @@
   <a href="https://matrix.to/#/@ghost1134:matrix.org">
     <img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix" />
   </a>
-  <a href="mailto:myhailohymochko@gmail.com">
+  <a href="mailto:uMantadev@proton.me">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
 </div>
