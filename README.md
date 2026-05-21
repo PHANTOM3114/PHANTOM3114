@@ -4,7 +4,7 @@
     Building sovereign digital infrastructure powered by open-source technologies.<br>
     Focused on OS-level architecture, distributed systems, and high-performance daemons.<br>
     Strictly utilizing C++, Rust, and rigorous System Design.<br>
-    Aslo mentoring for career switchers in Linux C++ Systems Programming
+    Also mentoring for career switchers in Linux C++ Systems Programming
   </p>
   <br>
   <a href="https://matrix.to/#/@ghost1134:matrix.org">
